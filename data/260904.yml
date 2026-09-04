@@ -1,0 +1,61 @@
+about:
+  description:
+  |
+    A Python utility / library to sort imports.
+  license: MIT
+  homepage: https://isort.readthedocs.io/
+  head: 131f4ad
+  archived: false
+  latestVersion: 9.0.1
+  collectedAt: 2026-09-04T05:09:21Z
+timeline:
+  created: 2013-09-02
+  lastCommit: 2026-08-27
+  lastRelease: 2026-08-27
+popularity:
+  star: 6948
+  watcher: 42
+  fork: 681
+  release: 125
+  contributor: 338
+  pullRequest: 178
+  issue: 1366
+language:
+  Python: 880958
+  Shell: 791
+  Dockerfile: 664
+  CSS: 158
+totalBytes: 882571
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 6
+    mergedPR: 17
+    openPR: 5
+    closedIssue: 3
+    openIssue: 4
+    commit: 36
+  last90d:
+    since: 2026-06-06
+    release: 7
+    mergedPR: 51
+    openPR: 9
+    closedIssue: 6
+    openIssue: 6
+    commit: 85
+  last180d:
+    since: 2026-03-08
+    release: 10
+    mergedPR: 107
+    openPR: 9
+    closedIssue: 13
+    openIssue: 6
+    commit: 191
+  last360d:
+    since: 2025-09-09
+    release: 14
+    mergedPR: 146
+    openPR: 9
+    closedIssue: 27
+    openIssue: 10
+    commit: 280
