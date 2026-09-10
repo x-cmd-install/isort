@@ -7,7 +7,7 @@ about:
   latestVersion: "9.0.1"
   latestRelease: "9.0.1"
   latestPrerelease: "9.0.0b4"
-  collectedAt: 2026-09-10T16:19:25Z
+  collectedAt: 2026-09-10T20:08:06Z
 timeline:
   created: 2013-09-02
   lastCommit: 2026-08-27
@@ -86,7 +86,7 @@ total:
   commit: 4771
 ---
 path: /home/runner/.x-repo/github.com/PyCQA/isort
-collectedAt: 2026-09-10T16:19:33Z
+collectedAt: 2026-09-10T20:08:12Z
 loc:
   Python:
     code: 25856
