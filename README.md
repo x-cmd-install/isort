@@ -12,6 +12,28 @@ A Python utility / library to sort imports.
 x install isort
 ```
 
+## Code insight
+
+Total: **26,289** lines of code across **124** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 25,856 | 631 | 2,947 | 111 |
+| Toml | 238 | 9 | 26 | 4 |
+| ReStructuredText | 101 | 0 | 36 | 3 |
+| Ini | 55 | 8 | 10 | 1 |
+| Sh | 21 | 6 | 7 | 5 |
+
+## OpenSSF Scorecard
+
+Overall score: **4.9 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/PyCQA/isort>
@@ -23,6 +45,25 @@ x install isort
 - **Latest**: `9.0.1` (2026-08-27)
 - **Last commit**: 2026-08-27
 - **Assets in release**: 78
+
+## Popularity
+
+- **Stars**: 6,950 · **Forks**: 685 · **Open issues**: 1,366 · **Contributors**: 338
+
+## Totals (cumulative)
+
+- **Releases**: 125 · **Merged PRs**: 1073 · **Open PRs**: 15 · **Closed issues**: 1287 · **Open issues**: 79 · **Commits**: 4771
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 5 | 12 | 10 | 3 | 4 | 23 |
+| last60d | 2026-07-12 | 7 | 39 | 14 | 4 | 5 | 64 |
+| 90d | 2026-06-12 | 7 | 50 | 14 | 6 | 6 | 83 |
+| last180d | 2026-03-14 | 10 | 87 | 14 | 12 | 6 | 145 |
+| 360d | 2025-09-15 | 14 | 145 | 14 | 26 | 10 | 279 |
+| last720d | 2024-09-20 | 16 | 192 | 14 | 72 | 11 | 592 |
 
 ## Release assets
 
@@ -107,43 +148,19 @@ x install isort
 | [isort-9.0.1.tar.gz](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1.tar.gz) | 652.1 KiB | `native/unknown` |
 | [isort-9.0.1.tar.gz.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1.tar.gz.sigstore.json) | 10.5 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 6,950 · **Forks**: 685 · **Open issues**: 1,366 · **Contributors**: 338
+Reported by **45** distros on [repology.org](https://repology.org/project/isort). **3** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 125 · **Merged PRs**: 1073 · **Open PRs**: 15 · **Closed issues**: 1287 · **Open issues**: 79 · **Commits**: 4771
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 12 | 10 | 3 | 4 | 23 |
-| 90d | 2026-06-12 | 7 | 50 | 14 | 6 | 6 | 83 |
-| 360d | 2025-09-15 | 14 | 145 | 14 | 26 | 10 | 279 |
-
-## Code size
-
-Total: **26,289** lines of code across **124** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 25,856 | 631 | 2,947 | 111 |
-| Toml | 238 | 9 | 26 | 4 |
-| ReStructuredText | 101 | 0 | 36 | 3 |
-| Ini | 55 | 8 | 10 | 1 |
-| Sh | 21 | 6 | 7 | 5 |
-
-## OpenSSF Scorecard
-
-Overall score: **4.9 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `9.0.1` | ✅ latest |
+| Debian 14 | `8.0.1` | ⚠️ outdated |
+| Debian 13 | `6.0.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `7.0.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `5.6.4` | ⚠️ outdated |
+| Homebrew | `9.0.1` | ✅ latest |
+| Nix unstable | `8.0.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -154,4 +171,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:48Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:08:20Z._

@@ -12,6 +12,28 @@ A Python utility / library to sort imports.
 x install isort
 ```
 
+## 代码规模
+
+合计: **26,289** 行代码（覆盖前 5 种语言、共 **124** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 25,856 | 631 | 2,947 | 111 |
+| Toml | 238 | 9 | 26 | 4 |
+| ReStructuredText | 101 | 0 | 36 | 3 |
+| Ini | 55 | 8 | 10 | 1 |
+| Sh | 21 | 6 | 7 | 5 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **4.9 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/PyCQA/isort>
@@ -23,6 +45,25 @@ x install isort
 - **最新版本**: `9.0.1` (2026-08-27)
 - **最近提交**: 2026-08-27
 - **Release 含资产**: 78 个
+
+## 流行度
+
+- **Star**: 6,950 · **Fork**: 685 · **开放 issue**: 1,366 · **贡献者**: 338
+
+## 累计统计
+
+- **发布数**: 125 · **已合并 PR**: 1073 · **开放 PR**: 15 · **已关闭 issue**: 1287 · **开放 issue**: 79 · **提交数**: 4771
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 5 | 12 | 10 | 3 | 4 | 23 |
+| last60d | 2026-07-12 | 7 | 39 | 14 | 4 | 5 | 64 |
+| 90d | 2026-06-12 | 7 | 50 | 14 | 6 | 6 | 83 |
+| last180d | 2026-03-14 | 10 | 87 | 14 | 12 | 6 | 145 |
+| 360d | 2025-09-15 | 14 | 145 | 14 | 26 | 10 | 279 |
+| last720d | 2024-09-20 | 16 | 192 | 14 | 72 | 11 | 592 |
 
 ## Release 资产
 
@@ -107,43 +148,19 @@ x install isort
 | [isort-9.0.1.tar.gz](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1.tar.gz) | 652.1 KiB | `native/unknown` |
 | [isort-9.0.1.tar.gz.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1.tar.gz.sigstore.json) | 10.5 KiB | `other` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 6,950 · **Fork**: 685 · **开放 issue**: 1,366 · **贡献者**: 338
+在 [repology.org](https://repology.org/project/isort) 上共有 **45** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**41** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 125 · **已合并 PR**: 1073 · **开放 PR**: 15 · **已关闭 issue**: 1287 · **开放 issue**: 79 · **提交数**: 4771
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 12 | 10 | 3 | 4 | 23 |
-| 90d | 2026-06-12 | 7 | 50 | 14 | 6 | 6 | 83 |
-| 360d | 2025-09-15 | 14 | 145 | 14 | 26 | 10 | 279 |
-
-## 代码规模
-
-合计: **26,289** 行代码（覆盖前 5 种语言、共 **124** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 25,856 | 631 | 2,947 | 111 |
-| Toml | 238 | 9 | 26 | 4 |
-| ReStructuredText | 101 | 0 | 36 | 3 |
-| Ini | 55 | 8 | 10 | 1 |
-| Sh | 21 | 6 | 7 | 5 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **4.9 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `9.0.1` | ✅ latest |
+| Debian 14 | `8.0.1` | ⚠️ outdated |
+| Debian 13 | `6.0.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `7.0.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `5.6.4` | ⚠️ outdated |
+| Homebrew | `9.0.1` | ✅ latest |
+| Nix unstable | `8.0.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -154,4 +171,4 @@ isort 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:19:48Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:08:21Z._
