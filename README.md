@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 12 | 10 | 3 | 4 | 23 |
-| last60d | 2026-07-12 | 7 | 39 | 14 | 4 | 5 | 64 |
-| 90d | 2026-06-12 | 7 | 50 | 14 | 6 | 6 | 83 |
-| last180d | 2026-03-14 | 10 | 87 | 14 | 12 | 6 | 145 |
-| 360d | 2025-09-15 | 14 | 145 | 14 | 26 | 10 | 279 |
-| last720d | 2024-09-20 | 16 | 192 | 14 | 72 | 11 | 592 |
+| 30d | 2026-08-12 | 5 | 12 | 10 | 3 | 4 | 23 |
+| last60d | 2026-07-13 | 6 | 38 | 14 | 4 | 5 | 64 |
+| 90d | 2026-06-13 | 7 | 50 | 14 | 6 | 6 | 83 |
+| last180d | 2026-03-15 | 10 | 87 | 14 | 12 | 6 | 145 |
+| 360d | 2025-09-16 | 14 | 145 | 14 | 26 | 10 | 279 |
+| last720d | 2024-09-21 | 16 | 192 | 14 | 72 | 11 | 592 |
 
 ## Release assets
 
@@ -171,4 +171,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:36:01Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:43:28Z._
