@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,950 · **Forks**: 685 · **Open issues**: 1,366 · **Contributors**: 338
+- **Stars**: 6,951 · **Forks**: 685 · **Open issues**: 1,366 · **Contributors**: 338
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 5 | 12 | 10 | 3 | 4 | 23 |
-| last60d | 2026-07-13 | 6 | 38 | 14 | 4 | 5 | 64 |
-| 90d | 2026-06-13 | 7 | 50 | 14 | 6 | 6 | 83 |
-| last180d | 2026-03-15 | 10 | 87 | 14 | 12 | 6 | 145 |
-| 360d | 2025-09-16 | 14 | 145 | 14 | 26 | 10 | 279 |
-| last720d | 2024-09-21 | 16 | 192 | 14 | 72 | 11 | 592 |
+| 30d | 2026-08-14 | 5 | 11 | 10 | 3 | 4 | 23 |
+| last60d | 2026-07-15 | 6 | 36 | 14 | 4 | 5 | 64 |
+| 90d | 2026-06-15 | 7 | 48 | 14 | 6 | 6 | 83 |
+| last180d | 2026-03-17 | 10 | 87 | 14 | 12 | 6 | 145 |
+| 360d | 2025-09-18 | 14 | 145 | 14 | 26 | 10 | 279 |
+| last720d | 2024-09-23 | 16 | 192 | 14 | 72 | 11 | 592 |
 
 ## Release assets
 
@@ -150,7 +150,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **45** distros on [repology.org](https://repology.org/project/isort). **3** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
+Reported by **44** distros on [repology.org](https://repology.org/project/isort). **3** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -171,4 +171,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:15:59Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:46:15Z._
