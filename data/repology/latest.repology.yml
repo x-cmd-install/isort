@@ -1,13 +1,73 @@
-- repo: parrot
-  subrepo: parrot/main
+- repo: kali_rolling
+  subrepo: main
   srcname: isort
   binnames:
     - isort
     - python3-isort
   visiblename: isort
-  version: 6.0.1
-  origversion: 6.0.1-1
+  version: 8.0.1
+  origversion: 8.0.1-2
   status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - cjwatson@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: isort
+  binnames:
+    - isort
+    - python3-isort
+  visiblename: isort
+  version: 8.0.1
+  origversion: 8.0.1-2
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - cjwatson@debian.org
+  categories:
+    - misc
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: isort
+  binnames:
+    - isort
+    - python3-isort
+  visiblename: isort
+  version: 5.6.4
+  origversion: 5.6.4-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - mithrandi@debian.org
+  categories:
+    - misc
+- repo: deepin_23
+  subrepo: main
+  srcname: isort
+  binnames:
+    - isort
+    - python3-isort
+  visiblename: isort
+  version: 5.6.4
+  origversion: 5.6.4-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - mithrandi@debian.org
+  categories:
+    - python
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: isort
+  binnames:
+    - isort
+    - python3-isort
+  visiblename: isort
+  version: 9.0.1
+  origversion: 9.0.1-1
+  status: newest
   maintainers:
     - team+python@tracker.debian.org
     - cjwatson@debian.org
@@ -167,21 +227,6 @@
   maintainers:
     - python-apps-team@lists.alioth.debian.org
     - mithrandi@debian.org
-- repo: deepin_23
-  subrepo: main
-  srcname: isort
-  binnames:
-    - isort
-    - python3-isort
-  visiblename: isort
-  version: 5.6.4
-  origversion: 5.6.4-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - mithrandi@debian.org
-  categories:
-    - python
 - repo: deepin_25
   subrepo: main
   srcname: isort
@@ -197,65 +242,6 @@
     - mithrandi@debian.org
   categories:
     - python
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: isort
-  binnames:
-    - isort
-    - python3-isort
-  visiblename: isort
-  version: 5.6.4
-  origversion: 5.6.4-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - mithrandi@debian.org
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: isort
-  binnames:
-    - isort
-    - python3-isort
-  visiblename: isort
-  version: 9.0.1
-  origversion: 9.0.1-1
-  status: newest
-  maintainers:
-    - team+python@tracker.debian.org
-    - cjwatson@debian.org
-  categories:
-    - misc
-- repo: homebrew
-  srcname: isort
-  visiblename: isort
-  version: 9.0.1
-  origversion: null
-  status: newest
-  summary: Sort Python imports automatically
-- repo: homebrew
-  srcname: isort
-  visiblename: isort
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Sort Python imports automatically
-- repo: kali_rolling
-  subrepo: main
-  srcname: isort
-  binnames:
-    - isort
-    - python3-isort
-  visiblename: isort
-  version: 8.0.1
-  origversion: 8.0.1-2
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - cjwatson@debian.org
-  categories:
-    - misc
 - repo: nix_stable_24_05
   srcname: isort
   visiblename: isort
@@ -352,6 +338,21 @@
     - cjwatson@debian.org
   categories:
     - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: isort
+  binnames:
+    - isort
+    - python3-isort
+  visiblename: isort
+  version: 6.0.1
+  origversion: 6.0.1-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - cjwatson@debian.org
+  categories:
+    - misc
 - repo: pureos_amber
   subrepo: amber/main
   srcname: isort
@@ -428,31 +429,6 @@
     - cjwatson@debian.org
   categories:
     - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: isort
-  binnames:
-    - isort
-    - python3-isort
-  visiblename: isort
-  version: 8.0.1
-  origversion: 8.0.1-2
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - cjwatson@debian.org
-  categories:
-    - misc
-- repo: slackbuilds
-  srcname: python/isort
-  visiblename: python/isort
-  version: 4.3.4
-  origversion: null
-  status: outdated
-  maintainers:
-    - s.udrea@gsi.de
-  categories:
-    - python
 - repo: trisquel_10_0
   subrepo: nabia/main
   srcname: isort
@@ -619,3 +595,17 @@
     - cjwatson@debian.org
   categories:
     - universe/misc
+- repo: homebrew
+  srcname: isort
+  visiblename: isort
+  version: 9.0.1
+  origversion: null
+  status: newest
+  summary: Sort Python imports automatically
+- repo: homebrew
+  srcname: isort
+  visiblename: isort
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Sort Python imports automatically

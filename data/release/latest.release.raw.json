@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1039913,
       "digest": "sha256:9dd4664ad009552bc4c9f464bd31190d0f04132412ee4d9392145fdf58d92127",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-27T20:53:15Z",
       "updated_at": "2026-08-27T20:53:15Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp311-cp311-macosx_11_0_arm64.whl"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1575299,
       "digest": "sha256:fb7d55156a1f766a2b097165524f07be61ececa41a71ca33d24a00777f79a829",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-27T20:53:15Z",
       "updated_at": "2026-08-27T20:53:16Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1559017,
       "digest": "sha256:771d5b7385292a0b2106229b792b8750954bbaf231e0475b1f53f1dd43e00936",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-08-27T20:53:15Z",
       "updated_at": "2026-08-27T20:53:16Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp311-cp311-musllinux_1_2_x86_64.whl"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 457708,
       "digest": "sha256:5832683294dd61c59d00cd043a68d42f6ecd7dc7d04b73ac777f7f90a534d6ae",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-27T20:53:15Z",
       "updated_at": "2026-08-27T20:53:15Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp313-cp313-pyemscripten_2025_0_wasm32.whl"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 457029,
       "digest": "sha256:89ebbcdbdd9d66cc14909bbac36acb9db29f37325606113c9f270242f8a1f896",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-08-27T20:53:15Z",
       "updated_at": "2026-08-27T20:53:16Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314-pyemscripten_2026_0_wasm32.whl"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 1088685,
       "digest": "sha256:5e72a7063570f1d740f0284c7ae5739dc34c6a2d9f1049b13027a5bdadb56682",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-27T20:53:15Z",
       "updated_at": "2026-08-27T20:53:16Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314t-macosx_11_0_arm64.whl"
@@ -2515,7 +2515,7 @@
       "state": "uploaded",
       "size": 1853379,
       "digest": "sha256:cdf765657edb2bcccbb1b20d26e710acbcb27379c0a407c6cb376e5619059a7b",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-27T20:53:15Z",
       "updated_at": "2026-08-27T20:53:16Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl"
@@ -2587,7 +2587,7 @@
       "state": "uploaded",
       "size": 1871162,
       "digest": "sha256:23d3b6657763f9be1b15bb9664b016abfce34849d6215a46a42af7945d4acd68",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-08-27T20:53:15Z",
       "updated_at": "2026-08-27T20:53:16Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315t-musllinux_1_2_x86_64.whl"
@@ -2803,7 +2803,7 @@
       "state": "uploaded",
       "size": 667724,
       "digest": "sha256:ba23db109e3e93ef1999f7209a651214994cd807801addd16ac485982eb4edd7",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-08-27T20:53:15Z",
       "updated_at": "2026-08-27T20:53:15Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1.tar.gz"
