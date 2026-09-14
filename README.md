@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 5 | 11 | 10 | 3 | 4 | 23 |
-| last60d | 2026-07-15 | 6 | 36 | 14 | 4 | 5 | 64 |
-| 90d | 2026-06-15 | 7 | 48 | 14 | 6 | 6 | 83 |
-| last180d | 2026-03-17 | 10 | 87 | 14 | 12 | 6 | 145 |
-| 360d | 2025-09-18 | 14 | 145 | 14 | 26 | 10 | 279 |
-| last720d | 2024-09-23 | 16 | 192 | 14 | 72 | 11 | 592 |
+| 30d | 2026-08-15 | 5 | 11 | 9 | 3 | 4 | 5 |
+| last60d | 2026-07-16 | 6 | 33 | 13 | 4 | 5 | 60 |
+| 90d | 2026-06-16 | 7 | 48 | 14 | 6 | 6 | 81 |
+| last180d | 2026-03-18 | 10 | 85 | 14 | 12 | 6 | 142 |
+| 360d | 2025-09-19 | 14 | 145 | 14 | 26 | 10 | 279 |
+| last720d | 2024-09-24 | 16 | 192 | 14 | 72 | 11 | 592 |
 
 ## Release assets
 
@@ -148,20 +148,6 @@ Lowest-scoring checks:
 | [isort-9.0.1.tar.gz](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1.tar.gz) | 652.1 KiB | `native/unknown` |
 | [isort-9.0.1.tar.gz.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1.tar.gz.sigstore.json) | 10.5 KiB | `other` |
 
-## Distribution status
-
-Reported by **44** distros on [repology.org](https://repology.org/project/isort). **3** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `9.0.1` | ✅ latest |
-| Debian 14 | `8.0.1` | ⚠️ outdated |
-| Debian 13 | `6.0.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `7.0.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `5.6.4` | ⚠️ outdated |
-| Homebrew | `9.0.1` | ✅ latest |
-| Nix unstable | `8.0.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `isort` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -171,4 +157,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:46:15Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:04:57Z._
