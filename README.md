@@ -4,7 +4,7 @@
 
 A Python utility / library to sort imports.
 
-![isort](https://repo.x-cmd.io/isort.svg)
+[![x-cmd/install — isort Code Quality Monitoring Repo Card](https://repo.x-cmd.io/isort.svg)](https://x-cmd.com/install/isort)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,953 · **Forks**: 687 · **Open issues**: 1,366 · **Contributors**: 338
+- **Stars**: 6,954 · **Forks**: 687 · **Open issues**: 1,366 · **Contributors**: 338
 
 ## Totals (cumulative)
 
-- **Releases**: 125 · **Merged PRs**: 1074 · **Open PRs**: 18 · **Closed issues**: 1287 · **Open issues**: 79 · **Commits**: 4771
+- **Releases**: 125 · **Merged PRs**: 1074 · **Open PRs**: 20 · **Closed issues**: 1287 · **Open issues**: 79 · **Commits**: 4771
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 2 | 12 | 2 | 3 | 5 |
-| last60d | 2026-07-20 | 6 | 34 | 16 | 3 | 5 | 60 |
-| 90d | 2026-06-20 | 7 | 48 | 17 | 6 | 6 | 81 |
-| last180d | 2026-03-22 | 10 | 85 | 17 | 12 | 6 | 142 |
-| 360d | 2025-09-23 | 14 | 146 | 17 | 26 | 10 | 279 |
-| last720d | 2024-09-28 | 16 | 193 | 17 | 72 | 11 | 592 |
+| 30d | 2026-08-21 | 2 | 2 | 14 | 2 | 3 | 5 |
+| last60d | 2026-07-22 | 6 | 34 | 18 | 3 | 5 | 60 |
+| 90d | 2026-06-22 | 7 | 48 | 19 | 5 | 6 | 81 |
+| last180d | 2026-03-24 | 10 | 84 | 19 | 12 | 6 | 142 |
+| 360d | 2025-09-25 | 14 | 146 | 19 | 26 | 10 | 279 |
+| last720d | 2024-09-30 | 16 | 193 | 19 | 72 | 11 | 592 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:43:09Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:12:43Z._

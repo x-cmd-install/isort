@@ -4,7 +4,7 @@
 
 A Python utility / library to sort imports.
 
-![isort](https://repo.x-cmd.io/isort.svg?lang=zh)
+[![x-cmd/install — isort Code Quality Monitoring Repo Card](https://repo.x-cmd.io/isort.svg?lang=zh)](https://x-cmd.com/install/isort)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install isort
 
 ## 流行度
 
-- **Star**: 6,953 · **Fork**: 687 · **开放 issue**: 1,366 · **贡献者**: 338
+- **Star**: 6,954 · **Fork**: 687 · **开放 issue**: 1,366 · **贡献者**: 338
 
 ## 累计统计
 
-- **发布数**: 125 · **已合并 PR**: 1074 · **开放 PR**: 18 · **已关闭 issue**: 1287 · **开放 issue**: 79 · **提交数**: 4771
+- **发布数**: 125 · **已合并 PR**: 1074 · **开放 PR**: 20 · **已关闭 issue**: 1287 · **开放 issue**: 79 · **提交数**: 4771
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 2 | 12 | 2 | 3 | 5 |
-| last60d | 2026-07-20 | 6 | 34 | 16 | 3 | 5 | 60 |
-| 90d | 2026-06-20 | 7 | 48 | 17 | 6 | 6 | 81 |
-| last180d | 2026-03-22 | 10 | 85 | 17 | 12 | 6 | 142 |
-| 360d | 2025-09-23 | 14 | 146 | 17 | 26 | 10 | 279 |
-| last720d | 2024-09-28 | 16 | 193 | 17 | 72 | 11 | 592 |
+| 30d | 2026-08-21 | 2 | 2 | 14 | 2 | 3 | 5 |
+| last60d | 2026-07-22 | 6 | 34 | 18 | 3 | 5 | 60 |
+| 90d | 2026-06-22 | 7 | 48 | 19 | 5 | 6 | 81 |
+| last180d | 2026-03-24 | 10 | 84 | 19 | 12 | 6 | 142 |
+| 360d | 2025-09-25 | 14 | 146 | 19 | 26 | 10 | 279 |
+| last720d | 2024-09-30 | 16 | 193 | 19 | 72 | 11 | 592 |
 
 ## Release 资产
 
@@ -157,4 +157,4 @@ isort 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:43:10Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:12:45Z._
