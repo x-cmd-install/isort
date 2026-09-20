@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1559017,
       "digest": "sha256:771d5b7385292a0b2106229b792b8750954bbaf231e0475b1f53f1dd43e00936",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-08-27T20:53:15Z",
       "updated_at": "2026-08-27T20:53:16Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp311-cp311-musllinux_1_2_x86_64.whl"
