@@ -14,11 +14,11 @@ x install isort
 
 ## Code insight
 
-Total: **26,289** lines of code across **124** files in the top 5 languages.
+Total: **26,565** lines of code across **124** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 25,856 | 631 | 2,947 | 111 |
+| Python | 26,132 | 646 | 3,004 | 111 |
 | Toml | 238 | 9 | 26 | 4 |
 | ReStructuredText | 101 | 0 | 36 | 3 |
 | Ini | 55 | 8 | 10 | 1 |
@@ -26,11 +26,11 @@ Total: **26,289** lines of code across **124** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.9 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 3/15 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `9.0.1` (2026-08-27)
-- **Last commit**: 2026-08-27
+- **Last commit**: 2026-09-21
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 6,952 · **Forks**: 687 · **Open issues**: 1,366 · **Contributors**: 338
+- **Stars**: 6,953 · **Forks**: 689 · **Open issues**: 1,366 · **Contributors**: 344
 
 ## Totals (cumulative)
 
-- **Releases**: 125 · **Merged PRs**: 1074 · **Open PRs**: 20 · **Closed issues**: 1287 · **Open issues**: 79 · **Commits**: 4771
+- **Releases**: 125 · **Merged PRs**: 1082 · **Open PRs**: 9 · **Closed issues**: 1292 · **Open issues**: 74 · **Commits**: 4786
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 2 | 14 | 2 | 3 | 0 |
-| last60d | 2026-07-23 | 6 | 32 | 18 | 3 | 5 | 44 |
-| 90d | 2026-06-23 | 7 | 48 | 19 | 5 | 6 | 78 |
-| last180d | 2026-03-25 | 10 | 84 | 19 | 11 | 6 | 133 |
-| 360d | 2025-09-26 | 14 | 146 | 19 | 26 | 10 | 276 |
-| last720d | 2024-10-01 | 16 | 193 | 19 | 72 | 11 | 592 |
+| 30d | 2026-08-23 | 2 | 8 | 5 | 4 | 1 | 9 |
+| last60d | 2026-07-24 | 6 | 38 | 7 | 5 | 3 | 59 |
+| 90d | 2026-06-24 | 7 | 56 | 8 | 8 | 3 | 93 |
+| last180d | 2026-03-26 | 10 | 91 | 8 | 14 | 3 | 148 |
+| 360d | 2025-09-27 | 14 | 154 | 8 | 29 | 7 | 291 |
+| last720d | 2024-10-02 | 16 | 201 | 8 | 75 | 8 | 607 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:55:22Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:55:01Z._
