@@ -4,7 +4,7 @@
 
 A Python utility / library to sort imports.
 
-[![x-cmd/install — isort Code Quality Monitoring Repo Card](https://repo.x-cmd.io/isort.svg)](https://x-cmd.com/install/isort)
+[![x-cmd/install — isort Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/isort.svg)](https://x-cmd.com/install/isort)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install isort
 
 ## Code insight
 
-Total: **26,565** lines of code across **124** files in the top 5 languages.
+Total: **26,599** lines of code across **124** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 26,132 | 646 | 3,004 | 111 |
+| Python | 26,166 | 644 | 3,016 | 111 |
 | Toml | 238 | 9 | 26 | 4 |
 | ReStructuredText | 101 | 0 | 36 | 3 |
 | Ini | 55 | 8 | 10 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `9.0.1` (2026-08-27)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 6,953 · **Forks**: 689 · **Open issues**: 1,366 · **Contributors**: 344
+- **Stars**: 6,953 · **Forks**: 693 · **Open issues**: 1,368 · **Contributors**: 344
 
 ## Totals (cumulative)
 
-- **Releases**: 125 · **Merged PRs**: 1082 · **Open PRs**: 9 · **Closed issues**: 1292 · **Open issues**: 74 · **Commits**: 4786
+- **Releases**: 125 · **Merged PRs**: 1085 · **Open PRs**: 10 · **Closed issues**: 1294 · **Open issues**: 74 · **Commits**: 4789
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 8 | 5 | 4 | 1 | 9 |
-| last60d | 2026-07-24 | 6 | 38 | 7 | 5 | 3 | 59 |
-| 90d | 2026-06-24 | 7 | 56 | 8 | 8 | 3 | 93 |
-| last180d | 2026-03-26 | 10 | 91 | 8 | 14 | 3 | 148 |
-| 360d | 2025-09-27 | 14 | 154 | 8 | 29 | 7 | 291 |
-| last720d | 2024-10-02 | 16 | 201 | 8 | 75 | 8 | 607 |
+| 30d | 2026-08-24 | 2 | 11 | 6 | 4 | 3 | 12 |
+| last60d | 2026-07-25 | 6 | 41 | 8 | 5 | 5 | 62 |
+| 90d | 2026-06-25 | 7 | 58 | 9 | 8 | 5 | 96 |
+| last180d | 2026-03-27 | 10 | 94 | 9 | 14 | 5 | 151 |
+| 360d | 2025-09-28 | 14 | 157 | 9 | 30 | 8 | 294 |
+| last720d | 2024-10-03 | 16 | 204 | 9 | 76 | 9 | 610 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:55:01Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:46:09Z._
