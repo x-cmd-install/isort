@@ -26,11 +26,11 @@ Total: **26,815** lines of code across **124** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 3/15 approved changesets -- score normalized to 2
+- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,111 +42,111 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `9.0.1` (2026-08-27)
-- **Last commit**: 2026-09-27
+- **Latest**: `9.0.2` (2026-09-28)
+- **Last commit**: 2026-09-28
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 6,953 · **Forks**: 698 · **Open issues**: 1,373 · **Contributors**: 347
+- **Stars**: 6,956 · **Forks**: 699 · **Open issues**: 1,373 · **Contributors**: 347
 
 ## Totals (cumulative)
 
-- **Releases**: 125 · **Merged PRs**: 1093 · **Open PRs**: 15 · **Closed issues**: 1300 · **Open issues**: 73 · **Commits**: 4812
+- **Releases**: 126 · **Merged PRs**: 1094 · **Open PRs**: 16 · **Closed issues**: 1300 · **Open issues**: 73 · **Commits**: 4813
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 16 | 10 | 5 | 4 | 34 |
-| last60d | 2026-07-30 | 6 | 45 | 13 | 9 | 6 | 78 |
-| 90d | 2026-06-30 | 7 | 64 | 14 | 11 | 6 | 116 |
-| last180d | 2026-04-01 | 10 | 95 | 14 | 18 | 6 | 167 |
-| 360d | 2025-10-03 | 13 | 160 | 14 | 31 | 9 | 270 |
-| last720d | 2024-10-08 | 16 | 211 | 14 | 79 | 10 | 633 |
+| 30d | 2026-08-30 | 1 | 17 | 11 | 5 | 4 | 35 |
+| last60d | 2026-07-31 | 7 | 46 | 14 | 9 | 6 | 79 |
+| 90d | 2026-07-01 | 8 | 64 | 15 | 11 | 6 | 117 |
+| last180d | 2026-04-02 | 11 | 96 | 15 | 18 | 6 | 168 |
+| 360d | 2025-10-04 | 14 | 161 | 15 | 31 | 9 | 271 |
+| last720d | 2024-10-09 | 17 | 212 | 15 | 79 | 10 | 634 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [9.0.1.tar.gz](https://github.com/PyCQA/isort/releases/download/9.0.1/9.0.1.tar.gz) | 659.9 KiB | `native/unknown` |
-| [9.0.1.tar.gz.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/9.0.1.tar.gz.sigstore.json) | 10.4 KiB | `other` |
-| [9.0.1.zip](https://github.com/PyCQA/isort/releases/download/9.0.1/9.0.1.zip) | 720.0 KiB | `other` |
-| [9.0.1.zip.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/9.0.1.zip.sigstore.json) | 10.3 KiB | `other` |
-| [isort-9.0.1-cp310-cp310-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp310-cp310-macosx_11_0_arm64.whl) | 1.0 MiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp310-cp310-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp310-cp310-macosx_11_0_arm64.whl.sigstore.json) | 10.5 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.5 MiB | `native/linux/x64` |
-| [isort-9.0.1-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.5 KiB | `native/linux/x64` |
-| [isort-9.0.1-cp310-cp310-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp310-cp310-musllinux_1_2_x86_64.whl) | 1.5 MiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp310-cp310-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp310-cp310-musllinux_1_2_x86_64.whl.sigstore.json) | 10.5 KiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp310-cp310-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp310-cp310-win_amd64.whl) | 843.8 KiB | `other` |
-| [isort-9.0.1-cp310-cp310-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp310-cp310-win_amd64.whl.sigstore.json) | 10.5 KiB | `other` |
-| [isort-9.0.1-cp311-cp311-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp311-cp311-macosx_11_0_arm64.whl) | 1015.5 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp311-cp311-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp311-cp311-macosx_11_0_arm64.whl.sigstore.json) | 10.6 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.5 MiB | `native/linux/x64` |
-| [isort-9.0.1-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.6 KiB | `native/linux/x64` |
-| [isort-9.0.1-cp311-cp311-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp311-cp311-musllinux_1_2_x86_64.whl) | 1.5 MiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp311-cp311-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp311-cp311-musllinux_1_2_x86_64.whl.sigstore.json) | 10.6 KiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp311-cp311-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp311-cp311-win_amd64.whl) | 844.6 KiB | `other` |
-| [isort-9.0.1-cp311-cp311-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp311-cp311-win_amd64.whl.sigstore.json) | 10.2 KiB | `other` |
-| [isort-9.0.1-cp312-cp312-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp312-cp312-macosx_11_0_arm64.whl) | 1020.8 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp312-cp312-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp312-cp312-macosx_11_0_arm64.whl.sigstore.json) | 10.6 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.6 MiB | `native/linux/x64` |
-| [isort-9.0.1-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.6 KiB | `native/linux/x64` |
-| [isort-9.0.1-cp312-cp312-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp312-cp312-musllinux_1_2_x86_64.whl) | 1.6 MiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp312-cp312-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp312-cp312-musllinux_1_2_x86_64.whl.sigstore.json) | 10.6 KiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp312-cp312-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp312-cp312-win_amd64.whl) | 850.9 KiB | `other` |
-| [isort-9.0.1-cp312-cp312-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp312-cp312-win_amd64.whl.sigstore.json) | 10.6 KiB | `other` |
-| [isort-9.0.1-cp313-cp313-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp313-cp313-macosx_11_0_arm64.whl) | 997.7 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp313-cp313-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp313-cp313-macosx_11_0_arm64.whl.sigstore.json) | 10.6 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.6 MiB | `native/linux/x64` |
-| [isort-9.0.1-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.4 KiB | `native/linux/x64` |
-| [isort-9.0.1-cp313-cp313-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp313-cp313-musllinux_1_2_x86_64.whl) | 1.6 MiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp313-cp313-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp313-cp313-musllinux_1_2_x86_64.whl.sigstore.json) | 10.6 KiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp313-cp313-pyemscripten_2025_0_wasm32.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp313-cp313-pyemscripten_2025_0_wasm32.whl) | 447.0 KiB | `other` |
-| [isort-9.0.1-cp313-cp313-pyemscripten_2025_0_wasm32.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp313-cp313-pyemscripten_2025_0_wasm32.whl.sigstore.json) | 10.3 KiB | `other` |
-| [isort-9.0.1-cp313-cp313-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp313-cp313-win_amd64.whl) | 854.3 KiB | `other` |
-| [isort-9.0.1-cp313-cp313-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp313-cp313-win_amd64.whl.sigstore.json) | 10.6 KiB | `other` |
-| [isort-9.0.1-cp314-cp314-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314-macosx_11_0_arm64.whl) | 997.0 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp314-cp314-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314-macosx_11_0_arm64.whl.sigstore.json) | 10.6 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.6 MiB | `native/linux/x64` |
-| [isort-9.0.1-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.6 KiB | `native/linux/x64` |
-| [isort-9.0.1-cp314-cp314-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314-musllinux_1_2_x86_64.whl) | 1.6 MiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp314-cp314-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314-musllinux_1_2_x86_64.whl.sigstore.json) | 10.6 KiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp314-cp314-pyemscripten_2026_0_wasm32.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314-pyemscripten_2026_0_wasm32.whl) | 446.3 KiB | `other` |
-| [isort-9.0.1-cp314-cp314-pyemscripten_2026_0_wasm32.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314-pyemscripten_2026_0_wasm32.whl.sigstore.json) | 10.7 KiB | `other` |
-| [isort-9.0.1-cp314-cp314-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314-win_amd64.whl) | 873.6 KiB | `other` |
-| [isort-9.0.1-cp314-cp314-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314-win_amd64.whl.sigstore.json) | 10.6 KiB | `other` |
-| [isort-9.0.1-cp314-cp314t-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314t-macosx_11_0_arm64.whl) | 1.0 MiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp314-cp314t-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314t-macosx_11_0_arm64.whl.sigstore.json) | 10.5 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp314-cp314t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.8 MiB | `native/linux/x64` |
-| [isort-9.0.1-cp314-cp314t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.6 KiB | `native/linux/x64` |
-| [isort-9.0.1-cp314-cp314t-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314t-musllinux_1_2_x86_64.whl) | 1.8 MiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp314-cp314t-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314t-musllinux_1_2_x86_64.whl.sigstore.json) | 10.6 KiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp314-cp314t-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314t-win_amd64.whl) | 898.0 KiB | `other` |
-| [isort-9.0.1-cp314-cp314t-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp314-cp314t-win_amd64.whl.sigstore.json) | 10.3 KiB | `other` |
-| [isort-9.0.1-cp315-cp315-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315-macosx_11_0_arm64.whl) | 996.3 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp315-cp315-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315-macosx_11_0_arm64.whl.sigstore.json) | 10.6 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp315-cp315-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.6 MiB | `native/linux/x64` |
-| [isort-9.0.1-cp315-cp315-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.6 KiB | `native/linux/x64` |
-| [isort-9.0.1-cp315-cp315-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315-musllinux_1_2_x86_64.whl) | 1.6 MiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp315-cp315-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315-musllinux_1_2_x86_64.whl.sigstore.json) | 10.6 KiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp315-cp315-pyemscripten_2026_5_wasm32.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315-pyemscripten_2026_5_wasm32.whl) | 446.4 KiB | `other` |
-| [isort-9.0.1-cp315-cp315-pyemscripten_2026_5_wasm32.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315-pyemscripten_2026_5_wasm32.whl.sigstore.json) | 10.3 KiB | `other` |
-| [isort-9.0.1-cp315-cp315-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315-win_amd64.whl) | 873.6 KiB | `other` |
-| [isort-9.0.1-cp315-cp315-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315-win_amd64.whl.sigstore.json) | 10.6 KiB | `other` |
-| [isort-9.0.1-cp315-cp315t-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315t-macosx_11_0_arm64.whl) | 1.0 MiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp315-cp315t-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315t-macosx_11_0_arm64.whl.sigstore.json) | 10.6 KiB | `native/darwin/arm64` |
-| [isort-9.0.1-cp315-cp315t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.8 MiB | `native/linux/x64` |
-| [isort-9.0.1-cp315-cp315t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.5 KiB | `native/linux/x64` |
-| [isort-9.0.1-cp315-cp315t-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315t-musllinux_1_2_x86_64.whl) | 1.8 MiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp315-cp315t-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315t-musllinux_1_2_x86_64.whl.sigstore.json) | 10.5 KiB | `native/linux/x64/musl` |
-| [isort-9.0.1-cp315-cp315t-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315t-win_amd64.whl) | 896.7 KiB | `other` |
-| [isort-9.0.1-cp315-cp315t-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-cp315-cp315t-win_amd64.whl.sigstore.json) | 10.6 KiB | `other` |
-| [isort-9.0.1-py3-none-any.whl](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-py3-none-any.whl) | 101.1 KiB | `other` |
-| [isort-9.0.1-py3-none-any.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1-py3-none-any.whl.sigstore.json) | 10.6 KiB | `other` |
-| [isort-9.0.1.tar.gz](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1.tar.gz) | 652.1 KiB | `native/unknown` |
-| [isort-9.0.1.tar.gz.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.1/isort-9.0.1.tar.gz.sigstore.json) | 10.5 KiB | `other` |
+| [9.0.2.tar.gz](https://github.com/PyCQA/isort/releases/download/9.0.2/9.0.2.tar.gz) | 679.4 KiB | `native/unknown` |
+| [9.0.2.tar.gz.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/9.0.2.tar.gz.sigstore.json) | 10.3 KiB | `other` |
+| [9.0.2.zip](https://github.com/PyCQA/isort/releases/download/9.0.2/9.0.2.zip) | 739.4 KiB | `other` |
+| [9.0.2.zip.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/9.0.2.zip.sigstore.json) | 10.2 KiB | `other` |
+| [isort-9.0.2-cp310-cp310-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp310-cp310-macosx_11_0_arm64.whl) | 1.0 MiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp310-cp310-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp310-cp310-macosx_11_0_arm64.whl.sigstore.json) | 10.8 KiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.6 MiB | `native/linux/x64` |
+| [isort-9.0.2-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.8 KiB | `native/linux/x64` |
+| [isort-9.0.2-cp310-cp310-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp310-cp310-musllinux_1_2_x86_64.whl) | 1.5 MiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp310-cp310-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp310-cp310-musllinux_1_2_x86_64.whl.sigstore.json) | 10.3 KiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp310-cp310-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp310-cp310-win_amd64.whl) | 852.4 KiB | `other` |
+| [isort-9.0.2-cp310-cp310-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp310-cp310-win_amd64.whl.sigstore.json) | 10.8 KiB | `other` |
+| [isort-9.0.2-cp311-cp311-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp311-cp311-macosx_11_0_arm64.whl) | 1.0 MiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp311-cp311-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp311-cp311-macosx_11_0_arm64.whl.sigstore.json) | 10.8 KiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.5 MiB | `native/linux/x64` |
+| [isort-9.0.2-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.8 KiB | `native/linux/x64` |
+| [isort-9.0.2-cp311-cp311-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp311-cp311-musllinux_1_2_x86_64.whl) | 1.5 MiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp311-cp311-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp311-cp311-musllinux_1_2_x86_64.whl.sigstore.json) | 10.8 KiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp311-cp311-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp311-cp311-win_amd64.whl) | 853.2 KiB | `other` |
+| [isort-9.0.2-cp311-cp311-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp311-cp311-win_amd64.whl.sigstore.json) | 10.8 KiB | `other` |
+| [isort-9.0.2-cp312-cp312-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp312-cp312-macosx_11_0_arm64.whl) | 1.0 MiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp312-cp312-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp312-cp312-macosx_11_0_arm64.whl.sigstore.json) | 10.8 KiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.6 MiB | `native/linux/x64` |
+| [isort-9.0.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.8 KiB | `native/linux/x64` |
+| [isort-9.0.2-cp312-cp312-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp312-cp312-musllinux_1_2_x86_64.whl) | 1.6 MiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp312-cp312-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp312-cp312-musllinux_1_2_x86_64.whl.sigstore.json) | 10.7 KiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp312-cp312-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp312-cp312-win_amd64.whl) | 859.7 KiB | `other` |
+| [isort-9.0.2-cp312-cp312-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp312-cp312-win_amd64.whl.sigstore.json) | 10.8 KiB | `other` |
+| [isort-9.0.2-cp313-cp313-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-macosx_11_0_arm64.whl) | 1013.9 KiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp313-cp313-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-macosx_11_0_arm64.whl.sigstore.json) | 10.8 KiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.6 MiB | `native/linux/x64` |
+| [isort-9.0.2-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.9 KiB | `native/linux/x64` |
+| [isort-9.0.2-cp313-cp313-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-musllinux_1_2_x86_64.whl) | 1.6 MiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp313-cp313-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-musllinux_1_2_x86_64.whl.sigstore.json) | 10.8 KiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp313-cp313-pyemscripten_2025_0_wasm32.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-pyemscripten_2025_0_wasm32.whl) | 454.2 KiB | `other` |
+| [isort-9.0.2-cp313-cp313-pyemscripten_2025_0_wasm32.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-pyemscripten_2025_0_wasm32.whl.sigstore.json) | 10.7 KiB | `other` |
+| [isort-9.0.2-cp313-cp313-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-win_amd64.whl) | 864.1 KiB | `other` |
+| [isort-9.0.2-cp313-cp313-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-win_amd64.whl.sigstore.json) | 10.3 KiB | `other` |
+| [isort-9.0.2-cp314-cp314-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-macosx_11_0_arm64.whl) | 1014.8 KiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp314-cp314-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-macosx_11_0_arm64.whl.sigstore.json) | 10.2 KiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.6 MiB | `native/linux/x64` |
+| [isort-9.0.2-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.8 KiB | `native/linux/x64` |
+| [isort-9.0.2-cp314-cp314-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-musllinux_1_2_x86_64.whl) | 1.6 MiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp314-cp314-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-musllinux_1_2_x86_64.whl.sigstore.json) | 10.8 KiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp314-cp314-pyemscripten_2026_0_wasm32.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-pyemscripten_2026_0_wasm32.whl) | 453.5 KiB | `other` |
+| [isort-9.0.2-cp314-cp314-pyemscripten_2026_0_wasm32.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-pyemscripten_2026_0_wasm32.whl.sigstore.json) | 10.2 KiB | `other` |
+| [isort-9.0.2-cp314-cp314-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-win_amd64.whl) | 882.7 KiB | `other` |
+| [isort-9.0.2-cp314-cp314-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-win_amd64.whl.sigstore.json) | 10.7 KiB | `other` |
+| [isort-9.0.2-cp314-cp314t-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314t-macosx_11_0_arm64.whl) | 1.1 MiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp314-cp314t-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314t-macosx_11_0_arm64.whl.sigstore.json) | 10.8 KiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp314-cp314t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.8 MiB | `native/linux/x64` |
+| [isort-9.0.2-cp314-cp314t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.8 KiB | `native/linux/x64` |
+| [isort-9.0.2-cp314-cp314t-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314t-musllinux_1_2_x86_64.whl) | 1.8 MiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp314-cp314t-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314t-musllinux_1_2_x86_64.whl.sigstore.json) | 10.8 KiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp314-cp314t-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314t-win_amd64.whl) | 906.4 KiB | `other` |
+| [isort-9.0.2-cp314-cp314t-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314t-win_amd64.whl.sigstore.json) | 10.7 KiB | `other` |
+| [isort-9.0.2-cp315-cp315-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-macosx_11_0_arm64.whl) | 1014.2 KiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp315-cp315-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-macosx_11_0_arm64.whl.sigstore.json) | 10.8 KiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp315-cp315-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.6 MiB | `native/linux/x64` |
+| [isort-9.0.2-cp315-cp315-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.8 KiB | `native/linux/x64` |
+| [isort-9.0.2-cp315-cp315-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-musllinux_1_2_x86_64.whl) | 1.6 MiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp315-cp315-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-musllinux_1_2_x86_64.whl.sigstore.json) | 10.8 KiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp315-cp315-pyemscripten_2026_5_wasm32.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-pyemscripten_2026_5_wasm32.whl) | 453.5 KiB | `other` |
+| [isort-9.0.2-cp315-cp315-pyemscripten_2026_5_wasm32.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-pyemscripten_2026_5_wasm32.whl.sigstore.json) | 10.8 KiB | `other` |
+| [isort-9.0.2-cp315-cp315-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-win_amd64.whl) | 882.8 KiB | `other` |
+| [isort-9.0.2-cp315-cp315-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-win_amd64.whl.sigstore.json) | 10.9 KiB | `other` |
+| [isort-9.0.2-cp315-cp315t-macosx_11_0_arm64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-macosx_11_0_arm64.whl) | 1.1 MiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp315-cp315t-macosx_11_0_arm64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-macosx_11_0_arm64.whl.sigstore.json) | 10.8 KiB | `native/darwin/arm64` |
+| [isort-9.0.2-cp315-cp315t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl) | 1.8 MiB | `native/linux/x64` |
+| [isort-9.0.2-cp315-cp315t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json) | 10.8 KiB | `native/linux/x64` |
+| [isort-9.0.2-cp315-cp315t-musllinux_1_2_x86_64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-musllinux_1_2_x86_64.whl) | 1.8 MiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp315-cp315t-musllinux_1_2_x86_64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-musllinux_1_2_x86_64.whl.sigstore.json) | 10.7 KiB | `native/linux/x64/musl` |
+| [isort-9.0.2-cp315-cp315t-win_amd64.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-win_amd64.whl) | 905.5 KiB | `other` |
+| [isort-9.0.2-cp315-cp315t-win_amd64.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-win_amd64.whl.sigstore.json) | 10.9 KiB | `other` |
+| [isort-9.0.2-py3-none-any.whl](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-py3-none-any.whl) | 102.6 KiB | `other` |
+| [isort-9.0.2-py3-none-any.whl.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-py3-none-any.whl.sigstore.json) | 10.8 KiB | `other` |
+| [isort-9.0.2.tar.gz](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2.tar.gz) | 669.1 KiB | `native/unknown` |
+| [isort-9.0.2.tar.gz.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2.tar.gz.sigstore.json) | 10.7 KiB | `other` |
 
 ## Improve this data
 
@@ -157,4 +157,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:28:13Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:44:09Z._
