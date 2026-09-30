@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,956 · **Forks**: 699 · **Open issues**: 1,373 · **Contributors**: 347
+- **Stars**: 6,959 · **Forks**: 700 · **Open issues**: 1,374 · **Contributors**: 347
 
 ## Totals (cumulative)
 
-- **Releases**: 126 · **Merged PRs**: 1094 · **Open PRs**: 16 · **Closed issues**: 1300 · **Open issues**: 73 · **Commits**: 4813
+- **Releases**: 126 · **Merged PRs**: 1094 · **Open PRs**: 16 · **Closed issues**: 1300 · **Open issues**: 74 · **Commits**: 4813
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 17 | 11 | 5 | 4 | 35 |
-| last60d | 2026-07-31 | 7 | 46 | 14 | 9 | 6 | 79 |
-| 90d | 2026-07-01 | 8 | 64 | 15 | 11 | 6 | 117 |
-| last180d | 2026-04-02 | 11 | 96 | 15 | 18 | 6 | 168 |
-| 360d | 2025-10-04 | 14 | 161 | 15 | 31 | 9 | 271 |
-| last720d | 2024-10-09 | 17 | 212 | 15 | 79 | 10 | 634 |
+| 30d | 2026-08-31 | 1 | 17 | 11 | 5 | 5 | 35 |
+| last60d | 2026-08-01 | 7 | 45 | 14 | 9 | 7 | 79 |
+| 90d | 2026-07-02 | 8 | 64 | 15 | 11 | 7 | 117 |
+| last180d | 2026-04-03 | 11 | 96 | 15 | 18 | 7 | 168 |
+| 360d | 2025-10-05 | 14 | 160 | 15 | 30 | 10 | 271 |
+| last720d | 2024-10-10 | 17 | 211 | 15 | 79 | 11 | 634 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:44:09Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:30:04Z._
