@@ -14,11 +14,11 @@ x install isort
 
 ## Code insight
 
-Total: **26,126** lines of code across **120** files in the top 5 languages.
+Total: **26,282** lines of code across **120** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 25,704 | 568 | 2,910 | 107 |
+| Python | 25,860 | 568 | 2,912 | 107 |
 | Toml | 227 | 10 | 24 | 4 |
 | ReStructuredText | 101 | 0 | 36 | 3 |
 | Ini | 55 | 8 | 10 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `9.0.2` (2026-09-28)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-06
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 6,962 · **Forks**: 711 · **Open issues**: 1,377 · **Contributors**: 348
+- **Stars**: 6,964 · **Forks**: 712 · **Open issues**: 1,377 · **Contributors**: 348
 
 ## Totals (cumulative)
 
-- **Releases**: 126 · **Merged PRs**: 1099 · **Open PRs**: 22 · **Closed issues**: 1302 · **Open issues**: 75 · **Commits**: 4824
+- **Releases**: 126 · **Merged PRs**: 1101 · **Open PRs**: 21 · **Closed issues**: 1303 · **Open issues**: 74 · **Commits**: 4831
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 21 | 16 | 3 | 8 | 41 |
-| last60d | 2026-08-07 | 7 | 40 | 19 | 9 | 9 | 74 |
-| 90d | 2026-07-08 | 8 | 65 | 21 | 12 | 9 | 122 |
-| last180d | 2026-04-09 | 11 | 100 | 21 | 19 | 9 | 177 |
-| 360d | 2025-10-11 | 14 | 151 | 21 | 31 | 11 | 273 |
-| last720d | 2024-10-16 | 17 | 213 | 21 | 79 | 12 | 642 |
+| 30d | 2026-09-07 | 1 | 22 | 15 | 4 | 7 | 48 |
+| last60d | 2026-08-08 | 7 | 40 | 18 | 10 | 8 | 81 |
+| 90d | 2026-07-09 | 8 | 67 | 20 | 13 | 8 | 129 |
+| last180d | 2026-04-10 | 11 | 101 | 20 | 20 | 8 | 184 |
+| 360d | 2025-10-12 | 13 | 153 | 20 | 32 | 10 | 280 |
+| last720d | 2024-10-17 | 17 | 215 | 20 | 80 | 11 | 649 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:15:46Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:52:58Z._
