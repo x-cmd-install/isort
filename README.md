@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 126 · **Merged PRs**: 1101 · **Open PRs**: 21 · **Closed issues**: 1303 · **Open issues**: 74 · **Commits**: 4831
+- **Releases**: 126 · **Merged PRs**: 1101 · **Open PRs**: 22 · **Closed issues**: 1303 · **Open issues**: 74 · **Commits**: 4831
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 22 | 15 | 4 | 7 | 48 |
-| last60d | 2026-08-08 | 7 | 40 | 18 | 10 | 8 | 81 |
-| 90d | 2026-07-09 | 8 | 67 | 20 | 13 | 8 | 129 |
-| last180d | 2026-04-10 | 11 | 101 | 20 | 20 | 8 | 184 |
-| 360d | 2025-10-12 | 13 | 153 | 20 | 32 | 10 | 280 |
-| last720d | 2024-10-17 | 17 | 215 | 20 | 80 | 11 | 649 |
+| 30d | 2026-09-08 | 1 | 21 | 16 | 4 | 7 | 48 |
+| last60d | 2026-08-09 | 6 | 39 | 19 | 10 | 8 | 81 |
+| 90d | 2026-07-10 | 8 | 67 | 21 | 13 | 8 | 129 |
+| last180d | 2026-04-11 | 11 | 101 | 21 | 20 | 8 | 184 |
+| 360d | 2025-10-13 | 13 | 153 | 21 | 32 | 10 | 280 |
+| last720d | 2024-10-18 | 17 | 215 | 21 | 80 | 11 | 649 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:52:58Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:04:22Z._
