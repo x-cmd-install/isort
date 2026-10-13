@@ -26,13 +26,13 @@ x install isort
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.2 / 10**
+总评分: **5.1 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (3/10) — Found 3/8 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install isort
 
 ## 流行度
 
-- **Star**: 6,962 · **Fork**: 716 · **开放 issue**: 1,377 · **贡献者**: 348
+- **Star**: 6,963 · **Fork**: 717 · **开放 issue**: 1,378 · **贡献者**: 348
 
 ## 累计统计
 
-- **发布数**: 126 · **已合并 PR**: 1101 · **开放 PR**: 26 · **已关闭 issue**: 1303 · **开放 issue**: 74 · **提交数**: 4831
+- **发布数**: 126 · **已合并 PR**: 1101 · **开放 PR**: 27 · **已关闭 issue**: 1304 · **开放 issue**: 74 · **提交数**: 4831
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 20 | 20 | 4 | 7 | 48 |
-| last60d | 2026-08-13 | 6 | 37 | 23 | 10 | 8 | 61 |
-| 90d | 2026-07-14 | 7 | 65 | 25 | 12 | 8 | 121 |
-| last180d | 2026-04-15 | 11 | 98 | 25 | 20 | 8 | 180 |
-| 360d | 2025-10-17 | 13 | 153 | 25 | 32 | 10 | 278 |
-| last720d | 2024-10-22 | 17 | 215 | 25 | 80 | 11 | 649 |
+| 30d | 2026-09-13 | 1 | 20 | 21 | 4 | 7 | 48 |
+| last60d | 2026-08-14 | 6 | 36 | 24 | 10 | 8 | 61 |
+| 90d | 2026-07-15 | 7 | 64 | 26 | 12 | 8 | 121 |
+| last180d | 2026-04-16 | 11 | 98 | 26 | 21 | 8 | 180 |
+| 360d | 2025-10-18 | 13 | 153 | 26 | 33 | 10 | 278 |
+| last720d | 2024-10-23 | 17 | 215 | 26 | 81 | 11 | 649 |
 
 ## Release 资产
 
@@ -157,4 +157,4 @@ isort 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T05:55:01Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T06:50:08Z._
