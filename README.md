@@ -26,13 +26,13 @@ Total: **26,674** lines of code across **119** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 3/8 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,961 · **Forks**: 728 · **Open issues**: 1,379 · **Contributors**: 354
+- **Stars**: 6,961 · **Forks**: 729 · **Open issues**: 1,379 · **Contributors**: 354
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 1111 · **Open PRs**: 20 · **Closed issues**: 1312 · **Open issues**: 67 · **Commits**: 4851
+- **Releases**: 127 · **Merged PRs**: 1111 · **Open PRs**: 21 · **Closed issues**: 1312 · **Open issues**: 67 · **Commits**: 4851
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 2 | 28 | 15 | 5 | 7 | 0 |
-| last60d | 2026-08-20 | 4 | 36 | 17 | 10 | 7 | 0 |
-| 90d | 2026-07-21 | 8 | 71 | 18 | 12 | 8 | 0 |
-| last180d | 2026-04-22 | 12 | 108 | 19 | 22 | 8 | 0 |
-| 360d | 2025-10-24 | 14 | 161 | 19 | 35 | 9 | 0 |
-| last720d | 2024-10-29 | 18 | 224 | 19 | 83 | 10 | 668 |
+| 30d | 2026-09-20 | 2 | 28 | 16 | 5 | 7 | 58 |
+| last60d | 2026-08-21 | 4 | 36 | 18 | 10 | 7 | 79 |
+| 90d | 2026-07-22 | 8 | 71 | 19 | 12 | 8 | 129 |
+| last180d | 2026-04-23 | 12 | 106 | 20 | 22 | 8 | 194 |
+| 360d | 2025-10-25 | 14 | 161 | 20 | 35 | 9 | 298 |
+| last720d | 2024-10-30 | 18 | 224 | 20 | 83 | 10 | 668 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:38:59Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:07:39Z._
