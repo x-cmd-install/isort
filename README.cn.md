@@ -14,11 +14,11 @@ x install isort
 
 ## 代码洞察
 
-合计: **27,017** 行代码（覆盖前 5 种语言、共 **119** 个文件）。
+合计: **27,032** 行代码（覆盖前 5 种语言、共 **119** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 26,595 | 600 | 2,996 | 106 |
+| Python | 26,610 | 601 | 3,002 | 106 |
 | Toml | 227 | 10 | 24 | 4 |
 | ReStructuredText | 101 | 0 | 36 | 3 |
 | Ini | 55 | 8 | 10 | 1 |
@@ -43,27 +43,27 @@ x install isort
 ## 发布
 
 - **最新版本**: `10.0.0b1` (2026-09-28)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 78 个
 
 ## 流行度
 
-- **Star**: 6,962 · **Fork**: 724 · **开放 issue**: 1,379 · **贡献者**: 359
+- **Star**: 6,963 · **Fork**: 725 · **开放 issue**: 1,380 · **贡献者**: 360
 
 ## 累计统计
 
-- **发布数**: 127 · **已合并 PR**: 1118 · **开放 PR**: 14 · **已关闭 issue**: 1315 · **开放 issue**: 64 · **提交数**: 4862
+- **发布数**: 127 · **已合并 PR**: 1120 · **开放 PR**: 13 · **已关闭 issue**: 1316 · **开放 issue**: 64 · **提交数**: 4864
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 31 | 9 | 4 | 7 | 68 |
-| last60d | 2026-08-23 | 4 | 43 | 12 | 10 | 7 | 90 |
-| 90d | 2026-07-24 | 8 | 74 | 13 | 12 | 8 | 140 |
-| last180d | 2026-04-25 | 9 | 111 | 14 | 22 | 8 | 205 |
-| 360d | 2025-10-27 | 14 | 168 | 14 | 34 | 9 | 309 |
-| last720d | 2024-11-01 | 18 | 231 | 14 | 83 | 10 | 679 |
+| 30d | 2026-09-23 | 2 | 31 | 9 | 3 | 8 | 70 |
+| last60d | 2026-08-24 | 4 | 45 | 11 | 10 | 8 | 92 |
+| 90d | 2026-07-25 | 8 | 76 | 12 | 12 | 9 | 142 |
+| last180d | 2026-04-26 | 9 | 112 | 13 | 22 | 9 | 207 |
+| 360d | 2025-10-28 | 14 | 170 | 13 | 34 | 10 | 311 |
+| last720d | 2024-11-02 | 18 | 233 | 13 | 83 | 11 | 681 |
 
 ## Release 资产
 
@@ -148,6 +148,20 @@ x install isort
 | [isort-9.0.2.tar.gz](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2.tar.gz) | 669.1 KiB | `native/unknown` |
 | [isort-9.0.2.tar.gz.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2.tar.gz.sigstore.json) | 10.7 KiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/isort) 上共有 **42** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**35** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `9.0.2` | ✅ latest |
+| Debian 14 | `9.0.2` | ✅ latest |
+| Debian 13 | `6.0.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `7.0.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `5.6.4` | ⚠️ outdated |
+| Homebrew | `9.0.2` | ✅ latest |
+| Nix unstable | `8.0.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 isort 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `isort` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -157,4 +171,4 @@ isort 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:40:44Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:51:35Z._
