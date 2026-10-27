@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10541,
       "digest": "sha256:23a4e23b1906367133054ccaf20a3a275749e0535c7052efa5db5d238a65907e",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/9.0.2.tar.gz.sigstore.json"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 11054,
       "digest": "sha256:4ba4385ced2d4d3397b64765f2ba0550333e6a67ef862ce9fd98be10e62d5628",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp310-cp310-win_amd64.whl.sigstore.json"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 11058,
       "digest": "sha256:a1d73ac3cb6772d71ed3c2c869a79e2f3d129ffcacbccd8f4d597df9b233934f",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp311-cp311-macosx_11_0_arm64.whl.sigstore.json"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 11058,
       "digest": "sha256:cc862df51c47fd6f9ec299edef2703dc711d4900e0fa9f9a23bafa5f82c3538e",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 11054,
       "digest": "sha256:53d139e423c53ca7f4c9101749bfce04a51e1cb77ee9196da8f23762e3a81e3e",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:37Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp311-cp311-win_amd64.whl.sigstore.json"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 10913,
       "digest": "sha256:2c823f31f190d255cf5ee33ff5ef471ebf81a8029bdde65990b4c2af1de80293",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:37Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp312-cp312-musllinux_1_2_x86_64.whl.sigstore.json"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 11105,
       "digest": "sha256:d63b235f3d17ff0e24345f9c2fec545cda59866d93cf36b7f2d6160c379b197f",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp312-cp312-win_amd64.whl.sigstore.json"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 11058,
       "digest": "sha256:77b49b2a0ccc58867a9396e28737808a375da8251bdecdd311aa0ffd66d31878",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-macosx_11_0_arm64.whl.sigstore.json"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 11054,
       "digest": "sha256:f2dc1cc74ca6c2465f3638de7b89fb8b0b524a2510414a6432aeb7d1d3eeeb06",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-musllinux_1_2_x86_64.whl.sigstore.json"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 10584,
       "digest": "sha256:38741062a089942786e15efb3f297b7a348dedc1fb4913c4bc2367e690016460",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp313-cp313-win_amd64.whl.sigstore.json"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 10443,
       "digest": "sha256:5f6662b80a7a7aabbc079f75c65b8be9d4fcc1cb33c012c8169e246157da1435",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-macosx_11_0_arm64.whl.sigstore.json"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 11054,
       "digest": "sha256:1de87f901c21154ae01bde8eeaebe8d5f93ca34c18aac26d3d4ef8a6e0b6e527",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 10447,
       "digest": "sha256:9a74385c98eae75e002251502bf09eb639cce8ac3c4e1d178e1914a8733f53b0",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314-pyemscripten_2026_0_wasm32.whl.sigstore.json"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 11011,
       "digest": "sha256:067fdb79682be5be013d3e145a2af01938c62398d1049d50304cbc3e1e570cea",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:37Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314t-macosx_11_0_arm64.whl.sigstore.json"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 11054,
       "digest": "sha256:9a47a7b7a37372eea6e0ddd1ea2c7372ffe56f8f1c8f4e2549cc96a39f1dbcdc",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 11011,
       "digest": "sha256:5970893f1e229b77dce6b771a7e580cf57c1c659d4bb08e013fe3685373eb5ff",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp314-cp314t-musllinux_1_2_x86_64.whl.sigstore.json"
@@ -2191,7 +2191,7 @@
       "state": "uploaded",
       "size": 11101,
       "digest": "sha256:e620721cfecfbc04a488c4c519070a5e70baeef52bcad99482c79028d00cd054",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 11101,
       "digest": "sha256:72d100d8d26d46bb0272a32955f2aa6e16c10b9abfc89f85a2f0c44e6926b6a5",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-musllinux_1_2_x86_64.whl.sigstore.json"
@@ -2407,7 +2407,7 @@
       "state": "uploaded",
       "size": 11148,
       "digest": "sha256:cedd7ba5737a1b936c02316e81556497120a144d2edc37ac3d7545b9313fd56a",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315-win_amd64.whl.sigstore.json"
@@ -2479,7 +2479,7 @@
       "state": "uploaded",
       "size": 11101,
       "digest": "sha256:98147fb341b1ec7e967da294781beaf7d5aeffb6e5469e9e9fb1a6a6ead31008",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-macosx_11_0_arm64.whl.sigstore.json"
@@ -2515,7 +2515,7 @@
       "state": "uploaded",
       "size": 1874501,
       "digest": "sha256:a36f30b6b85d9726f79c7623d35f3e966d5d7d9d0a005af91ba19988fccd038b",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl"
@@ -2551,7 +2551,7 @@
       "state": "uploaded",
       "size": 11054,
       "digest": "sha256:a9f1f2a0a869e1e9dabdf00a66c236e3aa5c040b1ff3d8a5d8b966cf95059feb",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sigstore.json"
@@ -2623,7 +2623,7 @@
       "state": "uploaded",
       "size": 11007,
       "digest": "sha256:9e1876552e8ff200010add37efec62d87421eb4fac01c8060fed88e794c37122",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:37Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-musllinux_1_2_x86_64.whl.sigstore.json"
@@ -2695,7 +2695,7 @@
       "state": "uploaded",
       "size": 11144,
       "digest": "sha256:9f3193af77ec9876772e2f4d168665776b91a1ece847391b131ea755da285cab",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:38Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2-cp315-cp315t-win_amd64.whl.sigstore.json"
@@ -2839,7 +2839,7 @@
       "state": "uploaded",
       "size": 11007,
       "digest": "sha256:856673847934aa068641a33be50643ff50886e065b3520d149bc0d5e88f4736a",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:20:37Z",
       "updated_at": "2026-09-28T19:20:37Z",
       "browser_download_url": "https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2.tar.gz.sigstore.json"
