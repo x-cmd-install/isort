@@ -26,13 +26,13 @@ x install isort
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.3 / 10**
+总评分: **5.5 / 10**
 
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install isort
 
 ## 流行度
 
-- **Star**: 6,961 · **Fork**: 728 · **开放 issue**: 1,382 · **贡献者**: 361
+- **Star**: 6,962 · **Fork**: 728 · **开放 issue**: 1,383 · **贡献者**: 361
 
 ## 累计统计
 
-- **发布数**: 127 · **已合并 PR**: 1123 · **开放 PR**: 16 · **已关闭 issue**: 1316 · **开放 issue**: 66 · **提交数**: 4867
+- **发布数**: 127 · **已合并 PR**: 1123 · **开放 PR**: 18 · **已关闭 issue**: 1316 · **开放 issue**: 67 · **提交数**: 4867
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 31 | 10 | 3 | 6 | 36 |
-| last60d | 2026-08-27 | 3 | 46 | 14 | 8 | 10 | 89 |
-| 90d | 2026-07-28 | 8 | 75 | 15 | 12 | 11 | 138 |
-| last180d | 2026-04-29 | 9 | 115 | 16 | 22 | 11 | 209 |
-| 360d | 2025-10-31 | 14 | 173 | 16 | 33 | 12 | 309 |
-| last720d | 2024-11-05 | 18 | 236 | 16 | 83 | 13 | 684 |
+| 30d | 2026-09-27 | 2 | 25 | 11 | 2 | 7 | 36 |
+| last60d | 2026-08-28 | 2 | 46 | 16 | 8 | 11 | 89 |
+| 90d | 2026-07-29 | 8 | 75 | 17 | 12 | 12 | 138 |
+| last180d | 2026-04-30 | 9 | 114 | 18 | 22 | 12 | 209 |
+| 360d | 2025-11-01 | 14 | 172 | 18 | 33 | 13 | 309 |
+| last720d | 2024-11-06 | 18 | 236 | 18 | 83 | 14 | 684 |
 
 ## Release 资产
 
@@ -171,4 +171,4 @@ isort 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T04:40:51Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T05:02:40Z._
