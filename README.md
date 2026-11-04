@@ -26,7 +26,7 @@ Total: **27,231** lines of code across **119** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.7 / 10**
 
 Lowest-scoring checks:
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,965 · **Forks**: 733 · **Open issues**: 1,389 · **Contributors**: 364
+- **Stars**: 6,964 · **Forks**: 733 · **Open issues**: 1,389 · **Contributors**: 364
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 1138 · **Open PRs**: 23 · **Closed issues**: 1322 · **Open issues**: 67 · **Commits**: 4889
+- **Releases**: 128 · **Merged PRs**: 1138 · **Open PRs**: 24 · **Closed issues**: 1322 · **Open issues**: 67 · **Commits**: 4889
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 34 | 15 | 7 | 5 | 51 |
-| last60d | 2026-09-04 | 3 | 59 | 20 | 11 | 11 | 108 |
-| 90d | 2026-08-05 | 9 | 79 | 22 | 17 | 12 | 142 |
-| last180d | 2026-05-07 | 10 | 127 | 23 | 25 | 12 | 216 |
-| 360d | 2025-11-08 | 15 | 183 | 23 | 37 | 13 | 325 |
-| last720d | 2024-11-13 | 19 | 251 | 23 | 88 | 14 | 706 |
+| 30d | 2026-10-05 | 2 | 32 | 16 | 7 | 4 | 51 |
+| last60d | 2026-09-05 | 3 | 59 | 21 | 11 | 11 | 108 |
+| 90d | 2026-08-06 | 9 | 79 | 23 | 17 | 12 | 142 |
+| last180d | 2026-05-08 | 10 | 124 | 24 | 24 | 12 | 216 |
+| 360d | 2025-11-09 | 15 | 183 | 24 | 37 | 13 | 325 |
+| last720d | 2024-11-14 | 19 | 251 | 24 | 88 | 14 | 706 |
 
 ## Release assets
 
@@ -171,4 +171,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:45:09Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:15:03Z._
