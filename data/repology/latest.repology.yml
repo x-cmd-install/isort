@@ -1,19 +1,35 @@
-- repo: homebrew
+- repo: pardus_21
+  subrepo: main
   srcname: isort
+  binnames:
+    - isort
+    - python3-isort
   visiblename: isort
-  version: 9.0.2
-  origversion: null
-  status: newest
-  summary: Sort Python imports automatically
-- repo: homebrew
-  srcname: isort
-  visiblename: isort
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Sort Python imports automatically
+  version: 5.6.4
+  origversion: 5.6.4-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - mithrandi@debian.org
+  categories:
+    - misc
 - repo: parrot
   subrepo: parrot/main
+  srcname: isort
+  binnames:
+    - isort
+    - python3-isort
+  visiblename: isort
+  version: 6.0.1
+  origversion: 6.0.1-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - cjwatson@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
   srcname: isort
   binnames:
     - isort
@@ -257,6 +273,20 @@
     - cjwatson@debian.org
   categories:
     - misc
+- repo: homebrew
+  srcname: isort
+  visiblename: isort
+  version: 9.0.2
+  origversion: null
+  status: newest
+  summary: Sort Python imports automatically
+- repo: homebrew
+  srcname: isort
+  visiblename: isort
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Sort Python imports automatically
 - repo: kali_rolling
   subrepo: main
   srcname: isort
@@ -338,36 +368,6 @@
     - couchemar@yandex.ru
   licenses:
     - MIT
-- repo: pardus_21
-  subrepo: main
-  srcname: isort
-  binnames:
-    - isort
-    - python3-isort
-  visiblename: isort
-  version: 5.6.4
-  origversion: 5.6.4-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - mithrandi@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: isort
-  binnames:
-    - isort
-    - python3-isort
-  visiblename: isort
-  version: 6.0.1
-  origversion: 6.0.1-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - cjwatson@debian.org
-  categories:
-    - misc
 - repo: pureos_byzantium
   subrepo: byzantium/main
   srcname: isort
@@ -589,6 +589,21 @@
   version: 8.0.1
   origversion: 8.0.1-2
   status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - cjwatson@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: isort
+  binnames:
+    - isort
+    - python3-isort
+  visiblename: isort
+  version: 9.0.2
+  origversion: 9.0.2-1
+  status: newest
   maintainers:
     - team+python@tracker.debian.org
     - cjwatson@debian.org
