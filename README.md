@@ -14,11 +14,11 @@ x install isort
 
 ## Code insight
 
-Total: **27,977** lines of code across **119** files in the top 5 languages.
+Total: **28,381** lines of code across **119** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 27,555 | 657 | 3,146 | 106 |
+| Python | 27,959 | 665 | 3,234 | 106 |
 | Toml | 227 | 10 | 24 | 4 |
 | ReStructuredText | 101 | 0 | 36 | 3 |
 | Ini | 55 | 8 | 10 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `10.0.0b3` (2026-09-28)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-25
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 6,965 · **Forks**: 842 · **Open issues**: 1,392 · **Contributors**: 369
+- **Stars**: 6,966 · **Forks**: 842 · **Open issues**: 1,392 · **Contributors**: 370
 
 ## Totals (cumulative)
 
-- **Releases**: 129 · **Merged PRs**: 1146 · **Open PRs**: 37 · **Closed issues**: 1328 · **Open issues**: 64 · **Commits**: 4912
+- **Releases**: 129 · **Merged PRs**: 1147 · **Open PRs**: 37 · **Closed issues**: 1329 · **Open issues**: 63 · **Commits**: 4917
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 19 | 26 | 7 | 3 | 17 |
-| last60d | 2026-09-25 | 4 | 55 | 33 | 12 | 10 | 86 |
-| 90d | 2026-08-26 | 6 | 70 | 35 | 19 | 10 | 132 |
-| last180d | 2026-05-28 | 11 | 127 | 37 | 28 | 11 | 227 |
-| 360d | 2025-11-29 | 16 | 189 | 37 | 41 | 12 | 344 |
-| last720d | 2024-12-04 | 20 | 258 | 37 | 87 | 13 | 728 |
+| 30d | 2026-10-26 | 2 | 18 | 26 | 6 | 3 | 18 |
+| last60d | 2026-09-26 | 4 | 54 | 32 | 12 | 7 | 91 |
+| 90d | 2026-08-27 | 5 | 70 | 35 | 18 | 10 | 137 |
+| last180d | 2026-05-29 | 11 | 127 | 37 | 28 | 11 | 232 |
+| 360d | 2025-11-30 | 16 | 190 | 37 | 41 | 12 | 349 |
+| last720d | 2024-12-05 | 20 | 259 | 37 | 87 | 13 | 733 |
 
 ## Release assets
 
@@ -148,20 +148,6 @@ Lowest-scoring checks:
 | [isort-9.0.2.tar.gz](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2.tar.gz) | 669.1 KiB | `native/unknown` |
 | [isort-9.0.2.tar.gz.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2.tar.gz.sigstore.json) | 10.7 KiB | `other` |
 
-## Distribution status
-
-Reported by **43** distros on [repology.org](https://repology.org/project/isort). **7** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `9.0.2` | ✅ latest |
-| Debian 14 | `9.0.2` | ✅ latest |
-| Debian 13 | `6.0.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `7.0.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `5.6.4` | ⚠️ outdated |
-| Homebrew | `9.0.2` | ✅ latest |
-| Nix unstable | `8.0.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `isort` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -171,4 +157,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:40:44Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:35:02Z._
