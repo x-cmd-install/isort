@@ -1,14 +1,33 @@
-- repo: nix_stable_25_05
+- repo: devuan_4_0
+  subrepo: chimaera/main
   srcname: isort
+  binnames:
+    - isort
+    - python3-isort
   visiblename: isort
-  version: 6.0.1
-  origversion: null
+  version: 5.6.4
+  origversion: 5.6.4-1
   status: outdated
-  summary: Python utility / library to sort Python imports
   maintainers:
-    - couchemar@yandex.ru
-  licenses:
-    - MIT
+    - team+python@tracker.debian.org
+    - mithrandi@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: isort
+  binnames:
+    - isort
+    - python3-isort
+  visiblename: isort
+  version: 9.0.2
+  origversion: 9.0.2-1
+  status: newest
+  maintainers:
+    - team+python@tracker.debian.org
+    - cjwatson@debian.org
+  categories:
+    - misc
 - repo: apertis_v2023
   subrepo: v2023/development
   srcname: isort
@@ -179,36 +198,6 @@
     - mithrandi@debian.org
   categories:
     - python
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: isort
-  binnames:
-    - isort
-    - python3-isort
-  visiblename: isort
-  version: 5.6.4
-  origversion: 5.6.4-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - mithrandi@debian.org
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: isort
-  binnames:
-    - isort
-    - python3-isort
-  visiblename: isort
-  version: 9.0.2
-  origversion: 9.0.2-1
-  status: newest
-  maintainers:
-    - team+python@tracker.debian.org
-    - cjwatson@debian.org
-  categories:
-    - misc
 - repo: homebrew
   srcname: isort
   visiblename: isort
@@ -253,6 +242,17 @@
   srcname: isort
   visiblename: isort
   version: 5.13.2
+  origversion: null
+  status: outdated
+  summary: Python utility / library to sort Python imports
+  maintainers:
+    - couchemar@yandex.ru
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: isort
+  visiblename: isort
+  version: 6.0.1
   origversion: null
   status: outdated
   summary: Python utility / library to sort Python imports
@@ -338,22 +338,6 @@
     - cjwatson@debian.org
   categories:
     - misc
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: isort
-  binnames:
-    - isort
-    - python-isort
-    - python3-isort
-  visiblename: isort
-  version: 4.3.4
-  origversion: 4.3.4+ds1-1.1
-  status: outdated
-  maintainers:
-    - python-apps-team@lists.alioth.debian.org
-    - mithrandi@debian.org
-  categories:
-    - utils
 - repo: pureos_byzantium
   subrepo: byzantium/main
   srcname: isort
