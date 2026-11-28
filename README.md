@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,967 · **Forks**: 856 · **Open issues**: 1,395 · **Contributors**: 370
+- **Stars**: 6,967 · **Forks**: 875 · **Open issues**: 1,395 · **Contributors**: 370
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 9 | 28 | 2 | 5 | 18 |
-| last60d | 2026-09-28 | 4 | 46 | 35 | 11 | 10 | 91 |
-| 90d | 2026-08-29 | 4 | 69 | 39 | 17 | 13 | 137 |
-| last180d | 2026-05-31 | 11 | 126 | 41 | 28 | 14 | 232 |
-| 360d | 2025-12-02 | 16 | 189 | 41 | 41 | 15 | 349 |
-| last720d | 2024-12-07 | 20 | 259 | 41 | 87 | 16 | 728 |
+| 30d | 2026-10-29 | 2 | 6 | 27 | 2 | 5 | 18 |
+| last60d | 2026-09-29 | 3 | 46 | 35 | 10 | 10 | 91 |
+| 90d | 2026-08-30 | 4 | 69 | 39 | 17 | 13 | 137 |
+| last180d | 2026-06-01 | 11 | 125 | 41 | 28 | 14 | 232 |
+| 360d | 2025-12-03 | 16 | 189 | 41 | 41 | 15 | 349 |
+| last720d | 2024-12-08 | 20 | 258 | 41 | 87 | 16 | 728 |
 
 ## Release assets
 
@@ -148,20 +148,6 @@ Lowest-scoring checks:
 | [isort-9.0.2.tar.gz](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2.tar.gz) | 669.1 KiB | `native/unknown` |
 | [isort-9.0.2.tar.gz.sigstore.json](https://github.com/PyCQA/isort/releases/download/9.0.2/isort-9.0.2.tar.gz.sigstore.json) | 10.7 KiB | `other` |
 
-## Distribution status
-
-Reported by **42** distros on [repology.org](https://repology.org/project/isort). **7** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `9.0.2` | ✅ latest |
-| Debian 14 | `9.0.2` | ✅ latest |
-| Debian 13 | `6.0.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `7.0.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `5.6.4` | ⚠️ outdated |
-| Homebrew | `9.0.2` | ✅ latest |
-| Nix unstable | `8.0.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `isort` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -171,4 +157,4 @@ Install metadata for isort lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:58:29Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:49:12Z._
